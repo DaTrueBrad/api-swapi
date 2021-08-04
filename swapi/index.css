@@ -1,0 +1,38 @@
+#thing {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header {
+    height: 12vh;
+    background-color: #100F14;
+    display: flex;
+    align-items: center;
+    color: #E89E10;
+    padding: 0px 20px;
+}
+
+button {
+  background-color: #100F14;
+  font-family: fantasy;
+  color: #E89E10;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 48px;
+  margin: 25px;
+}
+h1 {
+    font-size: 6vh;
+    font-family: fantasy;
+}
+h2 {
+    font-family: fantasy;
+    font-size: 36px;
+    padding: 20px;
+
+}
+
+#resident-container {
+    text-align: center;
+}
